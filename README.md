@@ -10,9 +10,10 @@
 In today’s world, games are played on computers, and some of the most attractive, engaging games are bouncing balls. In these, the ball/s is/are shot on the targets above. The target is to break as many balls as we can before they come down. So for these real-life problems, we are going to use Matrices, vector space and 2d geometry. For implementing the concepts of mathematics in coding, we are going to use Java and their packages.
 
 # Driver Code
+![Code](https://user-images.githubusercontent.com/84075077/146640617-8466c572-2b64-4433-9292-5cef5f899f0a.jpeg)
 
 # Game's GUI
-
+![Game](https://user-images.githubusercontent.com/84075077/146640632-ea5e5cdf-8377-4bd6-9681-11d61c337e7e.jpeg)
 # Refrences
 * https://en.wikipedia.org/wiki/Game_theory#Game_types
 * https://www.geeksforgeeks.org/game-theory/
